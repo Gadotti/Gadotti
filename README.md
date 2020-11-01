@@ -26,6 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Palestra - Princípios S.O.L.I.D.](https://www.youtube.com/watch?v=XDCJOagwbpI)
+- [Palestra - XSS Attack](https://www.youtube.com/watch?v=nLHyEtAtUDI)
+- [Wifi password grabber and send e-mail using Arduino Digispark](https://www.youtube.com/watch?v=uzV_kIC-1_o)
+- [Palestra - Introdução ao Scrum](https://www.youtube.com/watch?v=t3xaY6zMavM)
+- [Maratona Bots - Severino Chat Bot](https://www.youtube.com/watch?v=ucIbj6j6FeY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/user/chervesblezz)
