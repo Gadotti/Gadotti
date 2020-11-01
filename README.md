@@ -42,6 +42,8 @@
 
 ➡️ [more videos...](https://www.youtube.com/user/chervesblezz)
 
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
