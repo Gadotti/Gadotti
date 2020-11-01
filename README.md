@@ -1,4 +1,4 @@
-### Hello traveler, I'm Eduardo Gaotti 👋
+### Hello traveler, I'm Eduardo Gadotti 👋
 
 - 😄 Solving problems and having fun with code since 2004.
 - 🔭 Since 2017 aiming to security and vulnerability area.
