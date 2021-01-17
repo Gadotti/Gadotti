@@ -19,11 +19,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remote File Inclusion. O que é? Onde vivem? Do que se alimentam?](http://eduardogadotti.com/2021/01/17/web-shells/)
 - [Dicionário da Segurança da Informação](http://eduardogadotti.com/2020/12/04/dicionario-seguranca/)
 - [XXE Attack. Nem todo XML é inocente!](http://eduardogadotti.com/2020/11/23/xxe-attack/)
 - [Como implementar um BlockChain simples](http://eduardogadotti.com/2020/10/12/blockchain/)
 - [Já ouviu falar em Reverse Tabnabbing?](http://eduardogadotti.com/2020/10/02/reverse-tabnabbing/)
-- [Google Hacking: O que os olhos não vêem, o Google indexa](http://eduardogadotti.com/2020/07/26/google-hacking/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://eduardogadotti.com)
