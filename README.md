@@ -19,11 +19,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proof-of-work com hashcash. Evitando bloqueios de acesso.](http://eduardogadotti.com/2021/04/19/powhashcash/)
 - [SameSite: Entenda de uma vez por todas](http://eduardogadotti.com/2021/02/13/samesite/)
 - [Remote File Inclusion. O que é? Onde vivem? Do que se alimentam?](http://eduardogadotti.com/2021/01/17/web-shells/)
 - [Dicionário da Segurança da Informação](http://eduardogadotti.com/2020/12/04/dicionario-seguranca/)
 - [XXE Attack. Nem todo XML é inocente!](http://eduardogadotti.com/2020/11/23/xxe-attack/)
-- [Como implementar um BlockChain simples](http://eduardogadotti.com/2020/10/12/blockchain/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://eduardogadotti.com)
