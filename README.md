@@ -19,11 +19,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Teams não faz logoff?](http://eduardogadotti.com/2021/09/07/ms-teams/)
 - [O que não te contam sobre BugBounty](http://eduardogadotti.com/2021/08/07/bugbounty/)
 - [Proof-of-work com hashcash. Evitando bloqueios de acesso.](http://eduardogadotti.com/2021/04/19/powhashcash/)
 - [SameSite: Entenda de uma vez por todas](http://eduardogadotti.com/2021/02/13/samesite/)
 - [Remote File Inclusion. O que é? Onde vivem? Do que se alimentam?](http://eduardogadotti.com/2021/01/17/web-shells/)
-- [Dicionário da Segurança da Informação](http://eduardogadotti.com/2020/12/04/dicionario-seguranca/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://eduardogadotti.com)
