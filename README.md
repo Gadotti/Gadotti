@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cookies e sessão de usuários: HandsOn: Propriedades de segurança](https://www.youtube.com/watch?v=XLG07IcNSFs)
 - [XXE simulation attack with C#  - How to prevent](https://www.youtube.com/watch?v=twGXAtuX9VI)
 - [Palestra - Princípios S.O.L.I.D.](https://www.youtube.com/watch?v=XDCJOagwbpI)
 - [Palestra - XSS Attack](https://www.youtube.com/watch?v=nLHyEtAtUDI)
 - [Palestra - Introdução ao Scrum](https://www.youtube.com/watch?v=t3xaY6zMavM)
-- [Maratona Bots - Severino Chat Bot](https://www.youtube.com/watch?v=ucIbj6j6FeY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/user/chervesblezz)
