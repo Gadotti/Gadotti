@@ -44,13 +44,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="gadotti's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gadotti&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://eduardogadotti.com
 [youtube]: https://www.youtube.com/user/chervesblezz
 [linkedin]: https://www.linkedin.com/in/eduardogadotti
