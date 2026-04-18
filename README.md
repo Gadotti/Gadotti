@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate and share knowledge.
 - ⚡ I love music, play guitar and drums.
 
-https://eduardogadotti.com
-https://www.linkedin.com/in/eduardogadotti
+- https://eduardogadotti.com
+- https://www.linkedin.com/in/eduardogadotti
