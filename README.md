@@ -14,36 +14,6 @@
 
 <br />
 
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Uma visão geral sobre o novo OWASP Top 10 versão 2021](http://eduardogadotti.com/2021/12/12/owasp-top10-2021/)
-- [Relação entre Cookies, Gerenciamento Sessões Web e Segurança](http://eduardogadotti.com/2021/11/28/cookies-e-sessao/)
-- [Microsoft Teams não faz logoff?](http://eduardogadotti.com/2021/09/07/ms-teams/)
-- [O que não te contam sobre BugBounty](http://eduardogadotti.com/2021/08/07/bugbounty/)
-- [Proof-of-work com hashcash. Evitando bloqueios de acesso.](http://eduardogadotti.com/2021/04/19/powhashcash/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://eduardogadotti.com)
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Cookies e sessão de usuários: HandsOn: Propriedades de segurança](https://www.youtube.com/watch?v=XLG07IcNSFs)
-- [XXE simulation attack with C#  - How to prevent](https://www.youtube.com/watch?v=twGXAtuX9VI)
-- [Palestra - Princípios S.O.L.I.D.](https://www.youtube.com/watch?v=XDCJOagwbpI)
-- [Palestra - XSS Attack](https://www.youtube.com/watch?v=nLHyEtAtUDI)
-- [Palestra - Introdução ao Scrum](https://www.youtube.com/watch?v=t3xaY6zMavM)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/user/chervesblezz)
-
----
-
 [website]: https://eduardogadotti.com
 [youtube]: https://www.youtube.com/user/chervesblezz
 [linkedin]: https://www.linkedin.com/in/eduardogadotti
